@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "E:\\Metroidvania\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|e:\\metroidvania\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|e:\\metroidvania\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|e:\\metroidvania\\assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\proprandomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|E:\\Metroidvania\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|E:\\Metroidvania\\assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|e:\\metroidvania\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|E:\\Metroidvania\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B39237E-EB72-FD6B-2E8B-43A009CC29FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,6 +47,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "E:\\Metroidvania\\Assets\\Scripts\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
+              "ToolTip": "E:\\Metroidvania\\Assets\\Scripts\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:40:39.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropRandomizer.cs",
+              "DocumentMoniker": "E:\\Metroidvania\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PropRandomizer.cs",
+              "ToolTip": "E:\\Metroidvania\\Assets\\Scripts\\PropRandomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PropRandomizer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:14:11.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\Metroidvania\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "E:\\Metroidvania\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:35:49.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerAnimator.cs",
               "DocumentMoniker": "E:\\Metroidvania\\Assets\\Scripts\\PlayerAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimator.cs",
@@ -42,12 +92,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerAnimator.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwCAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:19:20.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T16:19:20.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\Metroidvania\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -55,8 +104,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T15:54:10.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T15:54:10.2Z"
             }
           ]
         }
